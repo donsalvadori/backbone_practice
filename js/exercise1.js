@@ -1,7 +1,7 @@
 var Vehicle = Backbone.Model.extend({
 
 	default: {
-		registrationNumber: "new plate", 
+		registrationNumber: "XXX-XXX", 
 		color: "beige"
 	}
 
